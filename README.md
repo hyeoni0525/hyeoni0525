@@ -11,10 +11,8 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a AI Engineer from South Korea.<br/>
-  #### :fire: I aim to become a AI/ML Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Konyang University
+  ## 👀 HYUN
+  #### :fire: Hello, I’m developer Jung Hyeonho, shooting for the stars to build a brighter world with my work.<br/>
   <br/>
   <br/>
   

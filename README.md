@@ -60,6 +60,18 @@
   <!--Windows-->
   <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
   <br/>
+
+  ## 🦾 Version control and collaboration tools
+  <!--Git-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <!--Github-->
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <br/>
+
+  ## 🧑‍💻 Contact me
+  <!--Gmail-->
+  <a href=mailto:jhh000525@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhh000525@gmail.com"> </a>
+  <br/>
   
   ## 🏅 Stats
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=hyeoni0525&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">

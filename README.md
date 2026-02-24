@@ -14,10 +14,8 @@
   ## 👀 HYUN
   #### :fire: Hello, I’m developer Jung Hyeonho, shooting for the stars to build a brighter world with my work.<br/>
   <br/>
-  <br/>
   
-  ## 🧱 Tech Stack
-  ### Language
+  ## ✏️ Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <!--Java-->
@@ -30,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <br/>
   
-  ### Framework / Library
+  ## 📖 Framework / Library
   <!--Flask-->
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <!--Streamlit-->
@@ -44,12 +42,12 @@
   
   <br/>
   
-  ### Database
+  ## 💾 Database
   <!--MySQL-->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <br/>
   
-  ### Development tools
+  ## 🛠️ Development tools
   <!--Jupyter-->
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <!--Googlecolab-->
@@ -57,12 +55,15 @@
   <!--Visual Studio Code-->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <br/>
+
+  ## 🖥️ OS
+  <!--Windows-->
+  <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoni0525)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoni0525)](https://github.com/anuraghazra/github-readme-stats)
+  ## 🏅 Stats
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=hyeoni0525&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoni0525&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   
 </div>
 

@@ -68,6 +68,15 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br/>
 
+## 🏆 Awards
+
+| Year | Award | Project |
+|------|-------|---------|
+| 2026 | Practical Award — KT AIVLE School BIG Project | BRANDPIROT (AI Branding SaaS Platform) |
+| 2025 | Excellence Award — 2025 KAICTS Spring Conference | Language Model Selection Evaluation for Speech Reconstruction Systems Supporting Communication of Individuals with Dysarthria |
+| 2024 | Ranked in 8 / 140 — DACON Image Colorization & Loss Restoration AI Competition | Image Colorization & Restoration using GAN & U-Net |
+
+
   ## 🧑‍💻 Contact me
   <!--Gmail-->
   <a href=mailto:jhh000525@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhh000525@gmail.com"> </a>

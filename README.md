@@ -34,7 +34,7 @@
 
   ## 🧑‍💻 Contact me
 <p>
-  <a href="https://github.com/daeyoung01" target="_blank">
+  <a href="https://github.com/hyeoni0525" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/%ED%98%84%ED%98%B8-%EC%A0%95-2aa0b4439/" target="_blank">

@@ -47,8 +47,8 @@
   
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DAEYOUNG01/DAEYOUNG01/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DAEYOUNG01/DAEYOUNG01/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DAEYOUNG01/DAEYOUNG01/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyeoni0525/hyeoni0525/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyeoni0525/hyeoni0525/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hyeoni0525/hyeoni0525/output/pacman-contribution-graph.svg">
   </picture>
 </div>
